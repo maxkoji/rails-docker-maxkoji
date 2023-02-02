@@ -1,0 +1,8 @@
+git
+
+git init
+
+mv src/.gitignore .
+mv src/.gitattributes .
+
+rm -r src/.git
