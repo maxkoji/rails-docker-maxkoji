@@ -6,3 +6,17 @@ mv src/.gitignore .
 mv src/.gitattributes .
 
 rm -r src/.git
+
+.gitignore‚Ésrc‚Ì’Ç‹L
+
+
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/maxkoji/rails-docker-maxkoji.git
+
+git push -u origin main
